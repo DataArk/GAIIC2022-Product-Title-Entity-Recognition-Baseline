@@ -23,6 +23,7 @@
 pip install ark-nlp
 pip install pandas
 ```
+ark-nlp开源地址：https://github.com/xiangking/ark-nlp
 
 ## 目录结构
 

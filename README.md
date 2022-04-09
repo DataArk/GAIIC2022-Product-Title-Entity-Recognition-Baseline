@@ -47,4 +47,4 @@ ark-nlp开源地址：https://github.com/xiangking/ark-nlp
 
 - 线上测试（原始）：0.80151539
 - 线上测试（固定随机种子42, ark-nlp v0.0.8版本）：0.8019
-- 线上测试（固定随机种子42, ark-nlp v0.0.9版本）：0.80349
+- 线上测试（固定随机种子42, ark-nlp v0.0.9版本, batchsize 32, epoch 6）：0.80349

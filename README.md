@@ -39,7 +39,12 @@ ark-nlp开源地址：https://github.com/xiangking/ark-nlp
 
 下载数据并解压到`data/source_datasets`中，运行`code`文件夹中的`baseline.ipynb`
 
+## 注意事项
+
+请更新ark-nlp v0.0.9版本，该版本修复了RoPE部分的bug，修复后baseline可以达到0.80349
+
 ## 效果
 
 - 线上测试（原始）：0.80151539
-- 线上测试（固定随机种子42）：0.8019
+- 线上测试（固定随机种子42, ark-nlp v0.0.8版本）：0.8019
+- 线上测试（固定随机种子42, ark-nlp v0.0.9版本）：0.80349
